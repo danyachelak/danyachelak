@@ -4,7 +4,7 @@
 <a href="<a href="https://vk.com/dd.chelak">">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-<a href="https://t.me/chelakdd">">
+<a href="<a href="ahttps://t.me/chelakdd">">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
